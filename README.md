@@ -1,2 +1,2 @@
 # TDP2-ejercicios
-Ejercicos realizados en la clase de talleres de programación 2.
+Repositorio para los ejercicios realizados en la clase Talleres de programación 2.
