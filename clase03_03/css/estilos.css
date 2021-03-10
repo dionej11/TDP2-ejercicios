@@ -1,0 +1,32 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    background: url(../img/American-Horror-Story-encabezado.jpg);
+}
+table{
+    width: 50%;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    margin-top: -20%;
+    margin-left: -25%;
+    background: white;
+    color: white;
+}
+th{
+    text-align: center;
+    background: rgb(97, 97, 97);
+}
+td{
+    padding: 10px;
+    background: rgb(0, 0, 0);
+}
+td img{
+    display: block;
+    margin: auto;
+}
+.encabezado img{
+    width: 100%;
+    object-fit: contain;
+}

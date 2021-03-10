@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: sans-serif;
+}
+table {
+    margin: 5%;
+    border: #000000 1px solid;
+}
+td, th {
+    border: black 1px solid;
+}
+th{
+    font-size: 30px;
+}
+ol,ul{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+td img{
+    width: 90px;
+    margin: 2px;
+}
